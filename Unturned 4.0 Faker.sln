@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unturned 4.0 Faker", "Unturned 4.0 Faker\Unturned 4.0 Faker.csproj", "{1201DB00-182B-4699-AC95-3DF9CE4C931B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unturned 4.0 Faker (No Console)", "Unturned 4.0 Faker (No Console)\Unturned 4.0 Faker (No Console).csproj", "{A0A05841-4A46-4688-9F34-DDFB5AE98339}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unturned 4.0 Faker (No Console)", "Unturned 4.0 Faker\Unturned 4.0 Faker (No Console).csproj", "{A0A05841-4A46-4688-9F34-DDFB5AE98339}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
