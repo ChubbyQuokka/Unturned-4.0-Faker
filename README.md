@@ -6,10 +6,10 @@
 
 2. At the top of your screen, click `Build` then `Build Solution`.
 
-3. Next go into the project folder, `Unturned 4.0 Faker/bin/Release/` or `Unturned 4.0 Faker/bin/Debug/`, and drag one of the `.exe` files somewhere.
+3. Go into the project folder, `Unturned 4.0 Faker/bin/Release/` or `Unturned 4.0 Faker/bin/Debug/`, and drag one of the `.exe` files somewhere.
 
-4. Drag the `discord-rpc.dll` from `Libraries` into the same directory you put the `.exe`.
+4. Drag `discord-rpc.dll` from `Libraries` into the same directory you put the `.exe`.
 
-5. Run the `.exe` and troll of people. :D
+5. Run the `.exe` and troll people. :D
 
 ![](https://raw.githubusercontent.com/ChubbyQuokka/Unturned-4.0-Faker/master/img.png)
